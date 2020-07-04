@@ -17,7 +17,8 @@ from mmdet.utils import collect_env, get_root_logger
 
 
 '''
-comments from Xudong Duan
+comments from Xudong Duan in english
+every comment starts with Xudong07
 '''
 def parse_args():
     parser = argparse.ArgumentParser(description='Train a detector')
