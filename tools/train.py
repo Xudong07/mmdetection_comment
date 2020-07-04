@@ -16,6 +16,9 @@ from mmdet.models import build_detector
 from mmdet.utils import collect_env, get_root_logger
 
 
+'''
+comments from Xudong Duan
+'''
 def parse_args():
     parser = argparse.ArgumentParser(description='Train a detector')
     parser.add_argument('config', help='train config file path')
